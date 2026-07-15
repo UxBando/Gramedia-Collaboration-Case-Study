@@ -58,7 +58,7 @@ The project followed a structured design approach:
 7. Implementation Review
 
 ## Repository Structure
-
+```
 gramedia-collaboration-case-study/
 │
 ├── Gramedia_Collaboration_Case_Study.pdf
@@ -83,6 +83,7 @@ gramedia-collaboration-case-study/
 └── Comparison/
     ├── comparison.xlsx
     └── README.md
+```
 
 # Project Outcome
 
