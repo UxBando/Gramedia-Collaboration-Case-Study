@@ -113,7 +113,7 @@ The complete documentation is available below.
 📘 **[Gramedia_Collaboration_Case_Study.pdf](Gramedia_Collaboration_Case_Study.pdf)**
 
 # 📬 Contact
-Phone: +6285157013365
-Email: fadhlanabassa@gmail.com
-Linkedin: Fadhlan Nabil Nabassa
+Phone: +6285157013365<br>
+Email: fadhlanabassa@gmail.com<br>
+Linkedin: Fadhlan Nabil Nabassa<br>
 If you'd like to discuss this project or potential collaboration, feel free to connect with me on LinkedIn or reach out via email.
